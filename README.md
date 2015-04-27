@@ -35,4 +35,6 @@ Frugal Mail - Webmail front end to transactional email providers such as Mailgun
 
 ### Message Notification
 - Users can receive notifications of new messages through several push services such as Pushover, Pushbullet, and Slack
-- 
+- No POP3/IMAP/SMTP interface planned
+- Native IOS/Android interfaces welcome, but not planned in the short-term
+- Optional Activity reports are possible
